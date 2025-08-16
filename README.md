@@ -1,9 +1,9 @@
-# AI Documentation assistant Project ✅
+# AI Document assistant Project ✅
 ![Blog Image](https://raw.githubusercontent.com/excommunicades/ai-document-assistant/master/Preview.png)
 
 ## DESCRIPTION: 
 
-Documentation Assistant is an AI-powered REST API built with FastAPI. It processes .txt documents from /docs, creates embeddings with HuggingFace, and stores them in Weaviate for semantic search.
+Document Assistant is an AI-powered REST API built with FastAPI. It processes .txt documents from /docs, creates embeddings with HuggingFace, and stores them in Weaviate for semantic search.
 When a user asks a question, the system retrieves relevant text chunks and uses Ollama (via LangChain) to generate an answer.
 
 The architecture is modular, scalable, and fully local, making it easy to integrate with other apps while keeping data private.
@@ -102,4 +102,4 @@ This project was created to demonstrate my desire to adapt and learn new tools, 
 
 ## Authors 😎
 
-- **Stepanenko Daniil** - "Documentation Assistant"
+- **Stepanenko Daniil** - "AI Document assistant"
