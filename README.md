@@ -1,4 +1,4 @@
-# Documentation assistant Project ✅
+# AI Documentation assistant Project ✅
 ![Blog Image](https://raw.githubusercontent.com/excommunicades/ai-document-assistant/master/Preview.png)
 
 ## DESCRIPTION: 
