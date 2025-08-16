@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain_ollama
+weaviate-client
+pydantic
+pydantic-settings
+sentence-transformers
+httpx
